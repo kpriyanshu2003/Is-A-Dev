@@ -1,10 +1,11 @@
 {
+  "description": "priyanshu.is-a-dev",
+  "repo": "https://github.com/is-a-dev/docs",
   "owner": {
-    "username": "Priyansxu",
-    "email": "cloudypriyanshu@gmail.com",
-    "twitter": "priyansxu_gupta"
+    "username": "kpriyanshu2003",
+    "email": "kpriyanshu2003@outlook.com"
   },
   "record": {
-    "CNAME": "priyanshu.pages.dev"
+    "CNAME": "https://kpriyanshu.vercel.app"
   }
 }
